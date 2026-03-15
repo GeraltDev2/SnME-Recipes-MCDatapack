@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:zombie_spawn_egg",
+    "S": "minecraft:sand"
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:husk_spawn_egg"
+  }
+}

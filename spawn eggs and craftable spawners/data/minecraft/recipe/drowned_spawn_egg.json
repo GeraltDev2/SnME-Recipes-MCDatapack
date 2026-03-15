@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:zombie_spawn_egg",
+    "S": "minecraft:kelp"
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:drowned_spawn_egg"
+  }
+}

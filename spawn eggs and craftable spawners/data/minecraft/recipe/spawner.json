@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:experience_bottle",
+    "R": "minecraft:iron_bars",
+    "X": "minecraft:totem_of_undying"
+  },
+  "pattern": [
+    "R#R",
+    "#X#",
+    "R#R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:spawner"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:eggs",
+    "minecraft:skeleton_skull",
+    "minecraft:bow"
+  ],
+  "result": {
+    "id": "minecraft:skeleton_spawn_egg"
+  }
+}

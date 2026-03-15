@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:eggs",
+    "minecraft:piglin_head",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:piglin_spawn_egg"
+  }
+}
